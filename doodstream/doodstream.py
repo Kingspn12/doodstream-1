@@ -4,10 +4,7 @@ import os
 import sys
 from doodstream import DoodStream
 
-bot token = os.environ.get("5787420184:AAEr_UQnpBbQHXeOnYv2NyDjEGXPPxqZlzEApi")
-api_id = os.environ.get("26871269")
-api_hash = os.environ.get("c49f273ffa27f53f7751557950b4c8c9")
-api = os.environ.get("169472plyqdcv9srcis3qm")
+
 d = DoodStream(api)
 
 
